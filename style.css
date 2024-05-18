@@ -91,3 +91,7 @@ nav ul li a:hover {
     
     color: black;
 }
+a:visited {
+    background-color: hsl(0, 0%, 20%);
+}
+
